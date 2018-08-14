@@ -1,3 +1,13 @@
 body {
-    background-color: '#DFE2DB'
+    background-color: '#DFE2DB';
+}
+h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    font-size: .95em;
+}
+h2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    font-size: .75em;
 }
