@@ -11,3 +11,12 @@ h2 {
     font-weight: 400;
     font-size: .75em;
 }
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+    /* background-color: yellowgreen; */
+}
+a:hover, a:active {
+    text-decoration: none;
+    background-color: yellowgreen;
+}
