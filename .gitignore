@@ -4,3 +4,5 @@
 
 # Ignore system generated files
 .DS_Store
+
+_site/
