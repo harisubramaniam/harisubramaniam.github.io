@@ -15,7 +15,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+a:link a:visited {
     text-decoration: none;
     color: #999;
 }
@@ -29,6 +29,7 @@ h1 {
     font-weight: 600;
 }
 p {
+    font-family: 'Titillium Web', sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;

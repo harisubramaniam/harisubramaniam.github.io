@@ -1,3 +1,3 @@
-## Hari Subramaniam
+# Hari Subramaniam
 
-All things coded. 
+All things coded.
